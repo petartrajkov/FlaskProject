@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Debian",
+    "version": "11.0.0",
+    "id": 1
+  },
+  {
+    "name": "Debian",
+    "version": "10.0.0",
+    "id": 2
+  },
+  {
+    "name": "Debian",
+    "version": "9.0.0",
+    "id": 3
+  },
+  {
+    "name": "Oracle Linux",
+    "version": "9.0.0",
+    "id": 4
+  },
+  {
+    "name": "Oracle Linux",
+    "version": "8.7.0",
+    "id": 5
+  },
+  {
+    "name": "Oracle Linux",
+    "version": "8.6.0",
+    "id": 6
+  },
+  {
+    "name": "Microsoft Windows",
+    "version": "11.0.0",
+    "id": 7
+  },
+  {
+    "name": "Microsoft Windows",
+    "version": "10.0.0",
+    "id": 8
+  },
+  {
+    "name": "Microsoft Windows",
+    "version": "8.0.0",
+    "id": 9
+  },
+  {
+    "name": "Microsoft Windows",
+    "version": "7.0.0",
+    "id": 10
+  },
+  {
+    "name": "MacOS",
+    "version": "13.0.0",
+    "id": 11
+  },
+  {
+    "name": "MacOS",
+    "version": "12.0.0",
+    "id": 12
+  },
+  {
+    "name": "MacOS",
+    "version": "11.0.0",
+    "id": 13
+  },
+  {
+    "name": "MacOS",
+    "version": "10.15.1",
+    "id": 14
+  }
+]
