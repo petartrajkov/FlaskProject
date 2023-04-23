@@ -1,3 +1,7 @@
+GITHub Link:
+https://github.com/petartrajkov/FlaskTask
+
+------------------------------------------
 Terminal shortcuts:
 
 mkdir NewFolder - creating new folder
