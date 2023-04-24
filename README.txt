@@ -14,12 +14,7 @@ How to kill a process that is a using port on macOS:
 
 > kill -9 <PID>  # kill the specific pid
 For example, you can find out what’s running on port number 8080 by running the command:
-
 ❯ sudo lsof -i :8080
-COMMAND   PID            USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
-java    50693 kevinsookocheff  369u  IPv6 0x861ee023f0aa0b29      0t0  TCP *:http-alt (LISTEN)
-lsof returns the PID of the running process that uses the suspect port. You can terminate that process with the kill command:
-
 ❯ kill -9 50693
 
 ---------------------------------------------------------------

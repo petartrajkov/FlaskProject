@@ -31,7 +31,7 @@ def post_input():
         return "Content-Type not supported!"
 
 
-@app.route("/time")
+@app.route("/time", methods=["GET"])
 def time():
     date = datetime.now()
     dateStr = str(date)
