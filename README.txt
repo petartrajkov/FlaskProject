@@ -1,5 +1,5 @@
 GITHub Link:
-https://github.com/petartrajkov/FlaskTask
+https://github.com/petartrajkov/FlaskProject
 
 ------------------------------------------
 Terminal shortcuts:
